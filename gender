@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+char gender;
+gender='b';
+if(gender=='b')
+{
+	printf("boy");
+}
+else
+{
+	printf("girl");
+}
+}
